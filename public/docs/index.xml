@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Xiyang&#39;s Blog</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Docs on Xiyang&#39;s Blog</description>
+    <generator>Hugo -- 0.125.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Apr 2024 21:53:51 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstBlog</title>
+      <link>//localhost:1313/docs/firstblog/</link>
+      <pubDate>Mon, 22 Apr 2024 21:53:51 +0800</pubDate>
+      <guid>//localhost:1313/docs/firstblog/</guid>
+      <description>Hello, Hugo!</description>
+    </item>
+  </channel>
+</rss>
